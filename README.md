@@ -70,13 +70,7 @@ This project was built as part of the SOA Package – Handling State & Loading I
 ![LearnHubApp2](https://github.com/user-attachments/assets/e5cc377a-e369-4389-afb1-81de3e68ad7f)   
 
 
-![LearnHubApp3](https://github.com/user-attachments/assets/c9eb6e22-9e64-4619-a256-425e87be20d8)   
-
-
-
-
-
-
+![LearnHubApp3](https://github.com/user-attachments/assets/c9eb6e22-9e64-4619-a256-425e87be20d8)
 
 
 
