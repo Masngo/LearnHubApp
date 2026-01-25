@@ -4,8 +4,7 @@ This repository contains a Flutter-based learning platform called **LearnHub**.
 
 Below is the main application code (for easy viewing):
 
-A new Flutter project created with FlutLab - https://flutlab.io/ide/dd2ba917-f0da-4846-b9be-55684ff322cd  
-
+A new Flutter project created with FlutLab - https://flutlab.io/editor/dd2ba917-f0da-4846-b9be-55684ff322cd 
 ## Getting Started
 
 A few resources to get you started if this is your first Flutter project:
