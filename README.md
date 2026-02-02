@@ -51,7 +51,7 @@ flutter pub get
 
 flutter run
 
-Screenshots
+## Screenshots
 
 Below are selected screenshots demonstrating key application screens and features:
 
@@ -76,7 +76,7 @@ Below are selected screenshots demonstrating key application screens and feature
 
 
 
-Learning Outcomes
+## Learning Outcomes
 
 By completing this project, Team 8 gained hands-on experience in:
 
